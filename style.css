@@ -77,12 +77,12 @@
   }
 
   .card.correct {
-    background-color: var(--light-green-10)!important;
+    background: var(--light-green-10)!important;
     border: 2px solid var(--light-green)!important;
 }
   
   .card.wrong {
-    background-color: var(--light-red-10)!important;
+    background: var(--light-red-10)!important;
     border: 2px solid var(--light-red)!important;
   }
   
