@@ -76,6 +76,10 @@
     outline: none!important;
   }
 
+  .card .solvebtn{
+    text-shadow: none!important;
+  }
+
   .card.correct {
     background: var(--light-green-10)!important;
     border: 2px solid var(--light-green)!important;
@@ -168,3 +172,4 @@
   #AppClientFullscreenButton{
       display: none !important;
   }
+  
